@@ -69,7 +69,7 @@ nav a:hover {
 	width: 640px;
 	left: 0%;
 	top: 0px;
-	height: 180px;
+	height: 130px;
 	position: relative;	
 	-webkit-font-smoothing: antialiased;
 	visibility: visible;
@@ -101,7 +101,7 @@ nav a:hover {
 	background-position: center center;
 	border-color: transparent;
 	border-style: solid;
-	font-size: 31px;
+	font-size: 28px;
 	position: relative;
 	left: 20px;
 	top: 45px;
@@ -124,7 +124,7 @@ nav a:hover {
 	visibility: visible;
 	text-align: center;
 	z-index: 20;
-	top: 100px;
+	top: 54px;
 	left: 450px;
 	width: 170px;
 	height: 35px;
